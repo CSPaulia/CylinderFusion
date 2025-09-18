@@ -18,13 +18,15 @@ Point cloud segmentation is crucial for unmanned vehicle perception on water, an
 
 ### Visualization results on [WaterScenes](https://github.com/WaterScenes/WaterScenes) test set
 
-![waterscenes_demo](resources/cylinderfusion_demo.mp4)
+https://github.com/user-attachments/assets/8cf4db9e-bf24-4b36-8ad1-e583ad3cc49e
 
 ![waterscenes](resources/robustness.png)
 
 Visualization results of different models on the WaterScenes dataset and the image enhancement dataset. Red points represent incorrect predictions, while blue points indicate correct predictions.
 
 ### Visualization results on [VoD](https://github.com/tudelft-iv/view-of-delft-dataset) validation set
+
+https://github.com/user-attachments/assets/b98a5d15-264d-4978-ab92-2646c14e92f6
 
 ![vod](resources/vod.png)
 

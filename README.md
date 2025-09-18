@@ -18,7 +18,7 @@ Point cloud segmentation is crucial for unmanned vehicle perception on water, an
 
 ### Visualization results on [WaterScenes](https://github.com/WaterScenes/WaterScenes) test set
 
-https://github.com/user-attachments/assets/8cf4db9e-bf24-4b36-8ad1-e583ad3cc49e
+https://github.com/user-attachments/assets/564c7a96-b5f5-4852-85df-48fef4fc5580
 
 ![waterscenes](resources/robustness.png)
 
@@ -26,7 +26,7 @@ Visualization results of different models on the WaterScenes dataset and the ima
 
 ### Visualization results on [VoD](https://github.com/tudelft-iv/view-of-delft-dataset) validation set
 
-https://github.com/user-attachments/assets/b98a5d15-264d-4978-ab92-2646c14e92f6
+https://github.com/user-attachments/assets/e49046f6-9d53-4b3e-96ca-bb4dd7e8ef9c
 
 ![vod](resources/vod.png)
 

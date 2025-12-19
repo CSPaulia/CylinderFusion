@@ -14,6 +14,12 @@
 
 Point cloud segmentation is crucial for unmanned vehicle perception on water, and radar–camera fusion further improves its performance. Most existing BEV methods fuse features within cubic voxel space, ignoring the non-uniform distribution of outdoor point clouds and image frustum points. Their performance also degrades severely under adverse weather or sensor malfunctions. To address these, we propose CylinderFusion, a robust radar–camera fusion network. It introduces a novel paradigm for multimodal fusion within cylindrical voxel space and incorporates a specially designed scatter module. To improve robustness, we introduce a Dynamic Feature Selection (DFS) mechanism that adaptively weights features during fusion. Our method achieves state-of-the-art results on the large-scale WaterScenes dataset and demonstrates strong performance on the VoD dataset. Extensive ablations validate its effectiveness.
 
+## Quantitative results
+
+![dfs_ablation](resources/dfs_ablation.png)
+
+Ablation study for different adaptive fusion strategies on WaterScenes validation set with image enhancement.
+
 ## Qualitative results
 
 ### Visualization results on [WaterScenes](https://github.com/WaterScenes/WaterScenes) test set

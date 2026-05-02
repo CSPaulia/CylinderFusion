@@ -149,13 +149,13 @@ ckpts
 projects/BEVFusion
 
 # unavaliable now
-projects/CylinderFusion/*
-tools/waterscenes_converter.py
+# projects/CylinderFusion/*
+# tools/dataset_converters/waterscenes_converter.py
 tools/dataset_converters/vod_converter.py
 tools/dataset_converters/vod_data_utils.py
 mmdet3d/datasets/vod_dataset.py
-mmdet3d/datasets/waterscenes_dataset.py
-configs/_base_/datasets/waterscenes.py
-tools/preprocess
+# mmdet3d/datasets/waterscenes_dataset.py
+# configs/_base_/datasets/waterscenes.py
+# tools/preprocess
 tools/waterscenes_analysis
 README_final.md
